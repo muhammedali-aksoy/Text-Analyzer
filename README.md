@@ -27,5 +27,4 @@ print("Number of characters:", num_characters)
 print("Number of words:", num_words)
 
 ## 📂 File
-
-[📄 Download or view Text_Analyzer.py](./Text_Analyzer.py)
+📄 Download or view (./Text_Analyzer.py)
